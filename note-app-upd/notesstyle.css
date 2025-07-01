@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #4a6fa5;
+    --primary-color: rgb(107, 203, 235);
     --secondary-color: #166088;
-    --background-color: #f5f7fa;
+    --background-color: cornsilk;
     --text-color: #333;
     --light-gray: #e1e4e8;
     --white: #ffffff;
@@ -95,6 +95,7 @@ h1 {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    font-weight: bold;
 }
 
 .btn:hover {
