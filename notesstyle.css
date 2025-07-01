@@ -1,0 +1,16 @@
+body {
+    background-color:cornsilk
+}
+
+h1 {
+    color: rgb(107, 203, 235);
+    margin-top: 100px;
+}
+
+header {
+    clear: both;
+    text-align: center;
+    background-color: rgb(255, 190, 106);
+    margin-bottom: 200%;
+    
+}
